@@ -1,4 +1,6 @@
-# 08-chat-app
+# chat-app
+
+You can check the app here [Click Me](https://chat-app-gul-gunel.vercel.app/)
 
 ## Project setup
 ```
