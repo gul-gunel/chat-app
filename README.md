@@ -1,6 +1,8 @@
 # chat-app
 
-You can check the app here [Click Me](https://chat-app-gul-gunel.vercel.app/)
+Uygulamaya erişmek için tıklayınız. [Click Me](https://chat-app-gul-gunel.vercel.app/)
+
+## Sign up olduktan sonra chat uygulamasına erişebilirsiniz.
 
 ## Project setup
 ```
@@ -19,3 +21,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
