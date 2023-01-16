@@ -2,6 +2,8 @@
 
 Uygulamaya erişmek için tıklayınız. [Click Me](https://chat-app-gul-gunel.vercel.app/)
 
+- After create account, you can log in to the chat screen.
+
 ## Sign up olduktan sonra chat uygulamasına erişebilirsiniz.
 
 ## Project setup
